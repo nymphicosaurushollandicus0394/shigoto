@@ -1,5 +1,3 @@
-# shigoto
-
 <HTML>								
 	<HEAD>							
 		<TITLE>						
