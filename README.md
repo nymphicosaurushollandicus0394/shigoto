@@ -8,7 +8,7 @@
 	</HEAD>							
 	<BODY>							
 								
-		<BODY BGCOLOR=#000000>						
+		<BODY BGCOLOR=#808080>						
 		<FONT COLOR=#FFFF00>						
 		<P ALIGN=LEFT>						
 		<P VLIGN=TOP>						
