@@ -29,5 +29,4 @@
 								
 </HTML>								
 								
-								
-![grafik](https://user-images.githubusercontent.com/96582332/219977484-2ab7917e-e5e4-4c24-9708-96abbd2f07fe.png)
+
