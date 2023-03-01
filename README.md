@@ -1,7 +1,5 @@
 <HTML>
-	<BODY>
-	
-	
+<BODY>
 	<body bgcolor="rgb(153,153,153)">					
 		<P>
 		
