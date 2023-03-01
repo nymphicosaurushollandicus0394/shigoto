@@ -1,6 +1,6 @@
 <HTML>						
 					
-						
+	<body>				
 	<body bgcolor="rgb(153,153,153)">					
 		<P>
 		
@@ -43,12 +43,8 @@
 								
 								
 								
-								我
-								
-	</BODY>							
 								
 								
-								
-</HTML>								
+						
 								
 
