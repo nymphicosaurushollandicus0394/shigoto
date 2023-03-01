@@ -1,9 +1,5 @@
 <HTML>						
-	<HEAD>					
-		<TITLE>				
-				柳 重京 RYU, Junggyeong 		
-		</TITLE>				
-	</HEAD>					
+					
 						
 	<body bgcolor="rgb(211,211,211)">					
 		<P>
