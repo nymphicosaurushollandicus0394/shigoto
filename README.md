@@ -1,6 +1,4 @@
-<HTML>						
-					
-	<body>				
+				
 	<body bgcolor="rgb(153,153,153)">					
 		<P>
 		
@@ -18,7 +16,7 @@
 						
 						
 						<P>
-						<FONT COLOR=#FF0000>
+						
 
 						<a href="Rireki.HTML" style="color:#FF0000;">履歴</a>
 						<P>
@@ -31,10 +29,7 @@
 						
 						
 						
-						
-	</BODY>					
-</HTML>						
-					
+				
 								
 								
 								
