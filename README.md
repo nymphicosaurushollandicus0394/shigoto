@@ -1,5 +1,5 @@
-	<HTML>
-	<BODY>
+<HTML>
+	<Body>
 	<body bgcolor="rgb(153,153,153)">					
 		<P>
 		
@@ -28,6 +28,6 @@
 						<P>
 						<a href="Nouryoku.HTML" style="color:rgb(255,0,0);">能力</a>
 						
-						
-	</BODY>
+		</BODY>				
 	</HTML>
+		
