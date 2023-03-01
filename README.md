@@ -3,11 +3,12 @@
 		<P>
 		
 
-		<P><H1 Align=center style="font-size:24px; color:#FFFF00;">柳 重京
+		<P><H1 Align=center style="font-size:24px; color:rgb(128,0,128);">柳 重京
 		<P>
 		<NOBR>					
 		<P ALIGN=LEFT>		
-						<H4 style="font-size:18px; color:#FFFF00;">			
+						
+						<H4 style="font-size:18px; color:rgb(128,0,128);">			
 						<P>
 						<P>
 						<P>
@@ -18,13 +19,13 @@
 						<P>
 						
 
-						<a href="Rireki.HTML" style="color:#FF0000;">履歴</a>
+						<a href="Rireki.HTML" style="color:rgb(255,0,0);">履歴</a>
 						<P>
-						<a href="Rennrakusaki.HTML" style="color:#FF0000;">联絡</a>
+						<a href="Rennrakusaki.HTML" style="color:rgb(255,0,0);">联絡</a>
 						<P>
-						<a href="Purojekuto.HTML" style="color:#FF0000;">項目</a>
+						<a href="Purojekuto.HTML" style="color:rgb(255,0,0);">項目</a>
 						<P>
-						<a href="Nouryoku.HTML" style="color:#FF0000;">能力</a>
+						<a href="Nouryoku.HTML" style="color:rgb(255,0,0);">能力</a>
 						
 						
 						
